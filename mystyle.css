@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#header-bar{
+    margin-bottom: 60px;
+}
+.main-section{
+    margin-top: 20px;
+    height: 600px;
+    display: inline-block;
+}
