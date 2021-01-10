@@ -1,6 +1,9 @@
 html{
     scroll-behavior: smooth;
 }
+#follow-me-area{
+    text-decoration: none;
+}
 
 #header-bar{
     margin-bottom: 60px;

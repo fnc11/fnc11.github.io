@@ -1,0 +1,8 @@
+.amain-area{
+    color:red
+}
+/* resize images */
+#follow-me-area img {
+    width: 36px;
+    height: auto;
+}
